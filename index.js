@@ -1,6 +1,7 @@
 const express = require('express')
 var cors = require('cors')
 const jobs = require('./jobs.json')
+const cate = require('./category.json')
 const app = express()
 const port = 3000
 
@@ -19,6 +20,9 @@ app.get('/jobs', (req, res) => {
     res.send(jobs)
 })
 
+app.get('/cate', (req, res) => {
+  res.send(cate)
+})
 
 app.get('/jobs/:id', (req, res) => {
     const id = Number(req.params.id);

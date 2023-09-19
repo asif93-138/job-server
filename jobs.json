@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "companylogo": "../src/assets/Logo/apple.png",
+    "companylogo": "apple.png",
     "jobtitle": "Modeling Architecture Engineer",
     "companyname": "Apple Inc",
     "remoteoronsite": "Onsite",
@@ -16,7 +16,7 @@
   },
   {
     "id": 2,
-    "companylogo": "../src/assets/Logo/google.jpg",
+    "companylogo": "google.jpg",
     "jobtitle": "Technical Database Engineer",
     "companyname": "Google LLC",
     "remoteoronsite": "Remote",
@@ -31,7 +31,7 @@
   },
   {
     "id": 3,
-    "companylogo": "../src/assets/Logo/facebook.png",
+    "companylogo": "facebook.png",
     "jobtitle": "Information Security Officer",
     "companyname": "Meta Platforms, Inc",
     "remoteoronsite": "Remote",
@@ -46,7 +46,7 @@
   },
   {
     "id": 4,
-    "companylogo": "../src/assets/Logo/tesla.png",
+    "companylogo": "tesla.png",
     "jobtitle": "Mechanical Engineer",
     "companyname": "Tesla, Inc",
     "remoteoronsite": "Onsite",
@@ -61,7 +61,7 @@
   },
   {
     "id": 5,
-    "companylogo": "../src/assets/Logo/netflix.png",
+    "companylogo": "netflix.png",
     "jobtitle": "Web Engineer",
     "companyname": "Netflix, Inc",
     "remoteoronsite": "Remote",
@@ -76,7 +76,7 @@
   },
   {
     "id": 6,
-    "companylogo": "../src/assets/Logo/amazon.png",
+    "companylogo": "amazon.png",
     "jobtitle": "Software Engineer",
     "companyname": "Amazon.com, Inc",
     "remoteoronsite": "Onsite",
